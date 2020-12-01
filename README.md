@@ -1,16 +1,5 @@
-# pb_task2
+# A simple UI
 
-A new Flutter application.
+A simple user interface that shows about the subscription page for different apps like Netflix,Disney+,Spotify.
+Including the subscription amount and timw period.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
